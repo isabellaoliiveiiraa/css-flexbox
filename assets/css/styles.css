@@ -1,0 +1,89 @@
+.titulo-pagina {
+    text-align: center;
+    font-style: italic;
+    font-size: 3em;
+    font-weight: 900;
+    font-family: Arial, Helvetica, sans-serif;
+    color: blueviolet;
+    margin: 10px;
+}
+
+hr {
+    margin: 15px;
+}
+
+.bloco-1 {
+    background-color: rgb(151, 151, 151);
+    height: 150px;
+    width: 150px;
+    text-align: center;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 16px;
+}
+
+.bloco-2 {
+    background-color: rgb(69, 69, 69);
+    height: 150px;
+    width: 150px;
+    text-align: center;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 16px;
+}
+
+.bloco-3 {
+    background-color: rgb(0, 0, 0);
+    height: 150px;
+    width: 150px;
+    text-align: center;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 16px;
+}
+
+.container-row {
+    display: flex;
+    flex-direction: row;
+    background-color: darkslategrey;
+    padding: 16px;
+    height: 500px;
+}
+
+.container-column {
+    display: flex;
+    flex-direction: column;
+    background-color: darkslategrey;
+    padding: 16px;
+    height: 500px;
+}
+
+.container-row-reverse {
+    display: flex;
+    flex-direction: row-reverse;
+    background-color: darkslategrey;
+    padding: 16px;
+    height: 500px;
+}
+.container-row-reverse {
+    display: flex;
+    flex-direction: row-reverse;
+    background-color: darkslategrey;
+    padding: 16px;
+    height: 500px;
+}
+
+.nomeDaPropriedade{
+    font-size: 2em;
+    font-weight: 500px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: azure;
+    padding: 20px;
+}
+.velorDaPropriedade{
+    font-size: 5pm ;
+font-weight: 400px;
+font-family: Arial, Helvetica, sans-serif;
+color: aqua;
+padding: 20px; ;
+}
